@@ -12,6 +12,8 @@ urls:
       url: /gallery
     - text: Music
       url: /music
+    - text: Podcast
+      url: /podcast
     # - text: Shop
     #   url : /shop
     - text: Contact Me
