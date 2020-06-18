@@ -1,6 +1,14 @@
--
-  title: Mountains
-  directory: mountains
+- title: Adventures (Click to See More)
+  directory: adventures
+  preview:
+    filename: pic4.jpg
+    original: pic4.jpg
+    sizes:
+    - pic4.jpg
+    thumbnail: pic4.jpg
+
+- title: Non-Adventures (Click to See More)
+  directory: nonadventures
   preview:
     filename: 1.jpg
     original: 1-thumbnail.jpg

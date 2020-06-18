@@ -1,0 +1,114 @@
+picture_path: adventures
+preview:
+  filename: 1
+  original: pic4.jpg
+  sizes:
+  - pic4.jpg
+  thumbnail: pic4.jpg
+pictures:
+- filename: 1
+  original: pic4.jpg
+  sizes:
+  - pic4.jpg
+  thumbnail: pic4.jpg
+- filename: 2
+  original: pic2.jpg
+  sizes:
+  - pic2.jpg
+  thumbnail: pic2.jpg
+- filename: 3
+  original: pic3.jpg
+  sizes:
+  - pic3.jpg
+  thumbnail: pic3.jpg
+  preview:
+  filename: 4
+  original: pic1.jpg
+  sizes:
+  - pic1.jpg
+  thumbnail: pic1.jpg
+- filename: 5
+  original: pic5.jpg
+  sizes:
+  - pic5.jpg
+  thumbnail: pic5.jpg
+- filename: 6
+  original: pic6.jpg
+  sizes:
+  - pic6.jpg
+  thumbnail: pic6.jpg
+- filename: 7
+  original: pic7.jpg
+  sizes:
+  - pic7.jpg
+  thumbnail: pic7.jpg
+  filename: 8
+  original: pic8.jpg
+  sizes:
+  - pic8.jpg
+  thumbnail: pic8.jpg
+- filename: 9
+  original: pic9.jpg
+  sizes:
+  - pic9.jpg
+  thumbnail: pic9.jpg
+- filename: 10
+  original: pic10.jpg
+  sizes:
+  - pic10.jpg
+  thumbnail: pic10.jpg
+- filename: 11
+  original: pic11.jpg
+  sizes:
+  - pic11.jpg
+  thumbnail: pic11.jpg
+  filename: 12
+  original: pic12.jpg
+  sizes:
+  - pic12.jpg
+  thumbnail: pic12.jpg
+- filename: 13
+  original: pic13.jpg
+  sizes:
+  - pic13.jpg
+  thumbnail: pic13.jpg
+- filename: 14
+  original: pic14.jpg
+  sizes:
+  - pic14.jpg
+  thumbnail: pic14.jpg
+- filename: 15
+  original: pic15.jpg
+  sizes:
+  - pic15.jpg
+  thumbnail: pic15.jpg
+- filename: 16
+  original: pic16.jpg
+  sizes:
+  - pic16.jpg
+  thumbnail: pic16.jpg
+- filename: 17
+  original: pic17.jpg
+  sizes:
+  - pic17.jpg
+  thumbnail: pic17.jpg
+- filename: 18
+  original: pic18.jpg
+  sizes:
+  - pic18.jpg
+  thumbnail: pic18.jpg
+  filename: 19
+  original: pic19.jpg
+  sizes:
+  - pic19.jpg
+  thumbnail: pic19.jpg
+- filename: 20
+  original: pic20.jpg
+  sizes:
+  - pic20.jpg
+  thumbnail: pic20.jpg
+- filename: 21
+  original: pic21.jpg
+  sizes:
+  - pic21.jpg
+  thumbnail: pic21.jpg

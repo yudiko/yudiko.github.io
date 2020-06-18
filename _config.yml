@@ -69,28 +69,28 @@ author_education_details:
                 visibility: true
 
 doodles_details:
-              - drawing: drawing1.png
-                drawing1: drawing2.png
-                drawing2: drawing3.png
-                drawing3: drawing4.png
+              - drawing: drawing1.jpg
+                drawing1: drawing2.jpg
+                drawing2: drawing3.jpg
+                drawing3: drawing4.jpg
                 visibility: true
-              - drawing: drawing5.png
-                drawing1: drawing6.png
-                drawing2: drawing7.png
-                drawing3: drawing8.png 
+              - drawing: drawing5.jpg
+                drawing1: drawing6.jpg
+                drawing2: drawing7.jpg
+                drawing3: drawing8.jpg 
                 visibility: true
-              - drawing: drawing9.png
-                drawing1: drawing10.png
-                drawing2: drawing11.png
-                drawing3: drawing12.png 
+              - drawing: drawing9.jpg
+                drawing1: drawing10.jpg
+                drawing2: drawing11.jpg
+                drawing3: drawing12.jpg 
                 visibility: true
 
 
 # social links
 linkedin_username: yudi-ko
-instagram_username: yu.di.ko
-YouTube_username: UCBngJ1efJfFtKdmBZWKo-kg
-Spotify_username: 6YZyPyJyWzaGBRsRNZ0ZHP
+# instagram_username: yu.di.ko
+# YouTube_username: UCBngJ1efJfFtKdmBZWKo-kg
+# Spotify_username: 6YZyPyJyWzaGBRsRNZ0ZHP
 
 
 #for comments ( we got Disqus and Hyvor Commenting, uncomment the one you want to use )
