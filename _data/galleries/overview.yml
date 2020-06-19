@@ -1,4 +1,4 @@
-- title: Adventures (Click to See More)
+- title: Adventures (Click the Pic to See More)
   directory: adventures
   preview:
     filename: pic4.jpg
@@ -7,7 +7,7 @@
     - pic4.jpg
     thumbnail: pic4.jpg
 
-- title: Non-Adventures (Click to See More)
+- title: Non-Adventures (Click the Pic to See More)
   directory: nonadventures
   preview:
     filename: 1.jpg
