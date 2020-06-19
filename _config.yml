@@ -71,6 +71,11 @@ author_education_details:
                 visibility: true
 
 doodles_details:
+              - drawing: profile.png
+                drawing1: devon.png
+                drawing2: cam.png
+                drawing3: hamza.png
+                visibility: true
               - drawing: drawing1.jpg
                 drawing1: drawing2.jpg
                 drawing2: drawing3.jpg
