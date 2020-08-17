@@ -33,7 +33,7 @@ permalink: /music/
 <br/>
 
 <br/>
-<h2> <b> My new album "Fluid" is coming soon... </b> </h2>
+<h2> <b> My new EP "Fluid" is coming soon! Stay tuned for single releases. </b> </h2>
 
 <img src="/assets/img/fluid.png" class="img-fluid">
 <h2> <b> Follow me on Spotify and Subscribe to my YouTube channel to get notified when I release it! </b> </h2>

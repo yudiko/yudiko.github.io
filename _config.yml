@@ -15,7 +15,7 @@ urls:
     - text: Podcast
       url: /podcast
     # - text: Shop
-    #   url : /shop
+     # url : /shop
     - text: Contact Me
       url : /contact
 
@@ -95,7 +95,7 @@ doodles_details:
 
 # social links
 linkedin_username: yudi-ko
-# instagram_username: yu.di.ko
+instagram_username: yudiofficialmusic
 # YouTube_username: UCBngJ1efJfFtKdmBZWKo-kg
 # Spotify_username: 6YZyPyJyWzaGBRsRNZ0ZHP
 
