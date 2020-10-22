@@ -11,28 +11,6 @@ permalink: /music/
 <br/>
 <h4>Hi! I'm a female singer-songwriter currently in the Ogden, UT area. My original music is a collection of my life stories recorded in a 450 sq-ft studio apartment. I also love doing acoustic covers and renditions of my originals! Check out some of my content below!</h4>
 <br/>
-
-<h3>Covers</h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FsQGA0AIaUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ytDrD1Tmxkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fAAVWLOopRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<h3>Originals</h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aTwRE3vL2Bs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ty8y-nRHCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ngDtU--h0HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/twalIN6W5ao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <hr />
 <h3>Spotify:</h3>
 <br/>
@@ -57,5 +35,31 @@ permalink: /music/
    </div>
 </body>
 <br/>
+<h3>Covers</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FsQGA0AIaUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ytDrD1Tmxkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAAVWLOopRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+<h3>Originals</h3>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aTwRE3vL2Bs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-ty8y-nRHCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ngDtU--h0HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/54Dtv1WgtjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br/>
+<h3>Releases</h3>
+~Self-title Album: Yudi
+~Singles: Are You Lost?, Yoyo, Action Reaction, Tumbleweed
+
+<br/>
+<h3>EP Coming Soon</h3>
