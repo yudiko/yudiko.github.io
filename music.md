@@ -55,11 +55,3 @@ permalink: /music/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ngDtU--h0HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54Dtv1WgtjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br/>
-<h3>Releases</h3>
-~Self-title Album: Yudi
-~Singles: Are You Lost?, Yoyo, Action Reaction, Tumbleweed
-
-<br/>
-<h3>EP Coming Soon</h3>
