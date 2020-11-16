@@ -8,10 +8,10 @@ permalink: /podcast/
 <h1 class="text-center"> Podcast - Walk n' Talks, Sit n' Talks </h1>
 <br/>
  <div class="container">
-   <img src="/assets/img/walkntalks.jpg" class="img-fluid">
+   <img src="/assets/img/walkntalks.jpg"  width="300" height="300" >
    </div>
  <div class="container">
-   <img src="/assets/img/sitntalks.png" class="img-fluid">
+   <img src="/assets/img/sitntalks.png" width="300" height="300">
    </div>
 <hr />
 <h3>Latest Episode:</h3>
