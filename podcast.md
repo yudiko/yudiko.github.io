@@ -9,8 +9,6 @@ permalink: /podcast/
 <br/>
  <div class="container">
    <img src="/assets/img/walkntalks.jpg"  width="300" height="300" >
-   </div>
- <div class="container">
    <img src="/assets/img/sitntalks.png" width="300" height="300">
    </div>
 <hr />
