@@ -5,10 +5,13 @@ title: Podcast
 permalink: /podcast/
 ---
 
-<h1 class="text-center"> Podcast - Walk n' Talks </h1>
+<h1 class="text-center"> Podcast - Walk n' Talks, Sit n' Talks </h1>
 <br/>
  <div class="container">
    <img src="/assets/img/walkntalks.jpg" class="img-fluid">
+   </div>
+ <div class="container">
+   <img src="/assets/img/sitntalks.png" class="img-fluid">
    </div>
 <hr />
 <h3>Latest Episode:</h3>
