@@ -56,9 +56,10 @@ permalink: /music/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54Dtv1WgtjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
+
 <h3>Special Dates</h3>
+<br/>
 <h4>
-January 10th, 2021 @ 12PM - 2PM: Slackwater at Ogden
+January 10th, 2021 @ 12PM - 2PM: Lighthouse Lounge in Ogden
 </h4>
 <br/>
