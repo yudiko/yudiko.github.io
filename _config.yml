@@ -16,7 +16,7 @@ urls:
       url: /podcast
     # - text: Shop
      # url : /shop
-    - text: Contact Me
+    - text: Contact
       url : /contact
 
 
