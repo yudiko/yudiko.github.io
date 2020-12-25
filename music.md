@@ -6,14 +6,45 @@ permalink: /music/
 ---
 
 <h1 class="text-center"> Yudi - Music </h1>
-<!-- <img src="/assets/img/music1.jpg" class="img-fluid">
+
+<table width="100%">
+<tr>
+<td>
+<img src="/assets/img/music1.jpg" class="img-fluid">
+</td>
+<td>
 <img src="/assets/img/music2.jpg" class="img-fluid">
+</td>
+<td>
 <img src="/assets/img/music3.jpg" class="img-fluid">
-<img src="/assets/img/music4.jpg" class="img-fluid"> -->
+</td>
+<td>
+<img src="/assets/img/music4.jpg" class="img-fluid">
+</td>
+</tr>
+
+<tr>
+<td>
+<img src="/assets/img/music5.jpg" class="img-fluid">
+</td>
+<td>
+<img src="/assets/img/music6.png" class="img-fluid">
+</td>
+<td>
+<img src="/assets/img/music7.png" class="img-fluid">
+</td>
+<td>
+<img src="/assets/img/music8.jpg" class="img-fluid">
+</td>
+</tr>
+<table>
+<br/>
 
 <br/>
-<h4>
+<h3>
 Yudi is the following:
+</h3>
+<h4>
 <br/>
 <br>
 ~ a female singer-songwriter currently in the Ogden, UT area 
