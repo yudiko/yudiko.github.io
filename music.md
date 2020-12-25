@@ -55,14 +55,24 @@ Yudi is the following:
 <br/>
 <h3>Covers:</h3>
 
-
-<iframe width="50%" height=auto src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="50%" height=auto src="https://www.youtube.com/embed/FsQGA0AIaUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="50%" height=auto src="https://www.youtube.com/embed/ytDrD1Tmxkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="50%" height=auto src="https://www.youtube.com/embed/fAAVWLOopRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<table>
+<tr>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/FsQGA0AIaUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+</tr>
+<tr>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/ytDrD1Tmxkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/fAAVWLOopRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+</tr>
+<table>
 
 
 <!-- <h3>Originals:</h3>
