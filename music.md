@@ -41,12 +41,9 @@ permalink: /music/
 <br/>
 
 <br/>
-<h3>
-Yudi:
-</h3>
+<h3 style="font-size:4vw;">Yudi:</h3>
 
-<h6>
-<br/>
+<h5 style="font-size:2.5vw;">
 ~ a female singer-songwriter currently in the SLC area 
 <br>
 ~ a creator of original music recorded in a 450 sq-ft studio
@@ -58,10 +55,10 @@ Yudi:
 <br/>
 <a href="https://yudiko.github.io/contact/#/">Contact Yudi</a> if you would like her to perform at an event! 
 
-</h6>
+</h5>
 <br/>
 <hr />
-<h3>Spotify:</h3>
+<h3 style="font-size:4vw;">Spotify:</h3>
 <br/>
 <body>
    <div class="container">
@@ -74,7 +71,7 @@ Yudi:
 
  </body>
 <br/>
-<h3>YouTube:</h3>
+<h3 style="font-size:4vw;">YouTube:</h3>
 <br/>
 <body>
 <div class="container">
@@ -84,7 +81,7 @@ Yudi:
    </div>
 </body>
 <br/>
-<h3>Covers:</h3>
+<h3 style="font-size:4vw;">Covers:</h3>
 
 <table width="100%">
 <tr>
@@ -106,7 +103,7 @@ Yudi:
 <table>
 <br/>
 
-<h3>Originals:</h3>
+<h3 style="font-size:4vw;">Originals:</h3>
 
 <table width="100%">
 <tr>
@@ -128,7 +125,7 @@ Yudi:
 <table>
 <br/>
 
-<h3>Special Dates:</h3>
+<h3 style="font-size:4vw;">Special Dates:</h3>
 <br/>
 <h4>
 January 10th, 2021 @ 12PM - 2PM: Lighthouse Lounge in Ogden
