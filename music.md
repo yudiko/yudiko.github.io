@@ -120,17 +120,7 @@ A performer at gigs, weddings, theaters, open mics, etc.
 <h3>Special Dates:</h3>
 <br/>
 <table width="100%">
-<tr>
-<th width="20%">
-<h4>Date</h4>
-</td>
-<th width="20%">
-<h4>Time</h4>
-</td>
-<th width="60%">
-<h4>Location</h4>
-</td>
-</tr>
+
 <tr>
 <td width="20%">
 <h4>January 10th, 2021</h4>
