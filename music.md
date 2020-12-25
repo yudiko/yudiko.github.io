@@ -119,7 +119,44 @@ A performer at gigs, weddings, theaters, open mics, etc.
 
 <h3>Special Dates:</h3>
 <br/>
-<h4>
-January 10th, 2021 @ 12PM - 2PM: Lighthouse Lounge in Ogden
-</h4>
+<table width="100%">
+<tr>
+<th width="20%">
+<h4>Date</h4>
+</td>
+<th width="20%">
+<h4>Time</h4>
+</td>
+<th width="60%">
+<h4>Location</h4>
+</td>
+</tr>
+<tr>
+<td width="20%">
+<h4>January 10th, 2021</h4>
+</td>
+<td width="20%">
+<h4>12PM - 2PM MT</h4>
+</td>
+<td width="60%">
+<h4>Lighthouse Lounge in Ogden</h4>
+</td>
+</tr>
+<table>
+
+<!-- Add one of these for a new event: -->
+
+<!-- <tr>
+<td width="20%">
+<h4>January 10th, 2021</h4>
+</td>
+<td width="20%">
+<h4>12PM - 2PM MT</h4>
+</td>
+<td width="60%">
+<h4>Lighthouse Lounge in Ogden</h4>
+</td>
+</tr> -->
+
+
 <br/>
