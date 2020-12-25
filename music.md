@@ -41,9 +41,9 @@ permalink: /music/
 <br/>
 
 <br/>
-<h3 style="font-size:3vw;">Yudi:</h3>
+<h3>Yudi:</h3>
 
-<h5 style="font-size:2vw;">
+<h5>
 A female singer-songwriter currently in the SLC area. A creator of original music recorded in a 450 sq-ft studio. A performer of acoustic covers and acoustic originals.
 A performer at gigs, weddings, theaters, open mics, etc.
 <br/>
@@ -53,7 +53,7 @@ A performer at gigs, weddings, theaters, open mics, etc.
 </h5>
 <br/>
 <hr />
-<h3 style="font-size:3vw;">Spotify:</h3>
+<h3>Spotify:</h3>
 <br/>
 <body>
    <div class="container">
@@ -66,7 +66,7 @@ A performer at gigs, weddings, theaters, open mics, etc.
 
  </body>
 <br/>
-<h3 style="font-size:3vw;">YouTube:</h3>
+<h3>YouTube:</h3>
 <br/>
 <body>
 <div class="container">
@@ -76,7 +76,7 @@ A performer at gigs, weddings, theaters, open mics, etc.
    </div>
 </body>
 <br/>
-<h3 style="font-size:3vw;">Covers:</h3>
+<h3>Covers:</h3>
 
 <table width="100%">
 <tr>
@@ -98,7 +98,7 @@ A performer at gigs, weddings, theaters, open mics, etc.
 <table>
 <br/>
 
-<h3 style="font-size:3vw;">Originals:</h3>
+<h3>Originals:</h3>
 
 <table width="100%">
 <tr>
@@ -120,7 +120,7 @@ A performer at gigs, weddings, theaters, open mics, etc.
 <table>
 <br/>
 
-<h3 style="font-size:3vw;">Special Dates:</h3>
+<h3>Special Dates:</h3>
 <br/>
 <h4>
 January 10th, 2021 @ 12PM - 2PM: Lighthouse Lounge in Ogden
