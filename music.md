@@ -123,13 +123,13 @@ A performer at gigs, weddings, theaters, open mics, etc.
 
 <tr>
 <td width="20%">
-<h4>January 10th, 2021</h4>
+<h5>January 10th, 2021</h5>
 </td>
 <td width="20%">
-<h4>12PM - 2PM MT</h4>
+<h5>12PM - 2PM MT</h5>
 </td>
 <td width="60%">
-<h4>Lighthouse Lounge in Ogden</h4>
+<h5>Lighthouse Lounge in Ogden</h5>
 </td>
 </tr>
 <table>
@@ -138,13 +138,13 @@ A performer at gigs, weddings, theaters, open mics, etc.
 
 <!-- <tr>
 <td width="20%">
-<h4>January 10th, 2021</h4>
+<h5>January 10th, 2021</h5>
 </td>
 <td width="20%">
-<h4>12PM - 2PM MT</h4>
+<h5>12PM - 2PM MT</h5>
 </td>
 <td width="60%">
-<h4>Lighthouse Lounge in Ogden</h4>
+<h5>Lighthouse Lounge in Ogden</h5>
 </td>
 </tr> -->
 
