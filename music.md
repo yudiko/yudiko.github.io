@@ -14,6 +14,7 @@ permalink: /music/
 <br/>
 <h4>
 Yudi is the following:
+<br/>
 <br>
 ~ a female singer-songwriter currently in the Ogden, UT area 
 <br>
@@ -23,7 +24,7 @@ Yudi is the following:
 <br>
 ~ a performer who loves to sing and play at gigs, weddings, retirement homes, theaters, open mics... you name it!
 <br/>
-
+<br/>
 <a href="https://yudiko.github.io/contact/#/">Contact Yudi</a> if you would like her to perform at an event. 
 
 </h4>
@@ -52,18 +53,19 @@ Yudi is the following:
    </div>
 </body>
 <br/>
-<h3>Covers</h3>
+<h3>Covers:</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FsQGA0AIaUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="50%" src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="50%" src="https://www.youtube.com/embed/FsQGA0AIaUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytDrD1Tmxkw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fAAVWLOopRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h3>Originals</h3>
+<h3>Originals:</h3>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aTwRE3vL2Bs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -74,7 +76,7 @@ Yudi is the following:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/54Dtv1WgtjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<h3>Special Dates</h3>
+<h3>Special Dates:</h3>
 <br/>
 <h4>
 January 10th, 2021 @ 12PM - 2PM: Lighthouse Lounge in Ogden
