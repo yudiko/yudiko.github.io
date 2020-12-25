@@ -41,8 +41,6 @@ permalink: /music/
 <br/>
 
 <br/>
-<h3>Yudi:</h3>
-
 <h5>
 A female singer-songwriter currently in the SLC area. A creator of original music recorded in a 450 sq-ft studio. A performer of acoustic covers and acoustic originals.
 A performer at gigs, weddings, theaters, open mics, etc.
@@ -51,7 +49,6 @@ A performer at gigs, weddings, theaters, open mics, etc.
 <a href="https://yudiko.github.io/contact/#/">Contact Yudi</a> if you would like her to perform at an event! 
 
 </h5>
-<br/>
 <hr />
 <h3>Spotify:</h3>
 <br/>
