@@ -6,18 +6,23 @@ permalink: /music/
 ---
 
 <h1 class="text-center"> Yudi - Music </h1>
-<img src="/assets/img/music1.jpg" class="img-fluid">
+<!-- <img src="/assets/img/music1.jpg" class="img-fluid">
 <img src="/assets/img/music2.jpg" class="img-fluid">
 <img src="/assets/img/music3.jpg" class="img-fluid">
-<img src="/assets/img/music4.jpg" class="img-fluid">
+<img src="/assets/img/music4.jpg" class="img-fluid"> -->
 
 <br/>
 <h4>
 Yudi is the following:
+<br>
 ~ a female singer-songwriter currently in the Ogden, UT area 
+<br>
 ~ a creator of original music containing life stories recorded in a 450 sq-ft studio apartment
+<br>
 ~ an acoustic lover, performing acoustic covers and renditions of her originals
+<br>
 ~ a performer who loves to sing and play at gigs, weddings, retirement homes, theaters, open mics... you name it!
+<br/>
 
 <a href="https://yudiko.github.io/contact/#/">Contact Yudi</a> if you would like her to perform at an event. 
 
