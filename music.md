@@ -42,23 +42,23 @@ permalink: /music/
 
 <br/>
 <h3>
-Yudi is the following:
+Yudi:
 </h3>
-<h4>
-<br/>
-<br>
-~ a female singer-songwriter currently in the Ogden, UT area 
-<br>
-~ a creator of original music containing life stories recorded in a 450 sq-ft studio apartment
-<br>
-~ an acoustic lover, performing acoustic covers and renditions of her originals
-<br>
-~ a performer who loves to sing and play at gigs, weddings, retirement homes, theaters, open mics... you name it!
-<br/>
-<br/>
-<a href="https://yudiko.github.io/contact/#/">Contact Yudi</a> if you would like her to perform at an event. 
 
-</h4>
+<h6>
+<br/>
+~ a female singer-songwriter currently in the SLC area 
+<br>
+~ a creator of original music recorded in a 450 sq-ft studio
+<br>
+~ a performer of acoustic covers and acoustic originals
+<br>
+~ a performer at gigs, weddings, theaters, open mics, etc.
+<br/>
+<br/>
+<a href="https://yudiko.github.io/contact/#/">Contact Yudi</a> if you would like her to perform at an event! 
+
+</h6>
 <br/>
 <hr />
 <h3>Spotify:</h3>
