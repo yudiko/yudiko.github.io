@@ -49,13 +49,13 @@ Yudi is the following:
 <div class="container">
 <script src="https://apis.google.com/js/platform.js"></script>
 
-<div class="g-ytsubscribe" data-channelid="UCBngJ1efJfFtKdmBZWKo-kg" data-layout="full" data-count="hidden"></div>
+<div class="g-ytsubscribe" data-channelid="UCBngJ1efJfFtKdmBZWKo-kg" data-layout="full" data-count="default"></div>
    </div>
 </body>
 <br/>
 <h3>Covers:</h3>
 
-<table>
+<table width="100%">
 <tr>
 <td>
 <iframe width="100%" height=auto src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -73,18 +73,29 @@ Yudi is the following:
 </td>
 </tr>
 <table>
+<br/>
 
+<h3>Originals:</h3>
 
-<!-- <h3>Originals:</h3>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aTwRE3vL2Bs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ty8y-nRHCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ngDtU--h0HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/54Dtv1WgtjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
+<table width="100%">
+<tr>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/aTwRE3vL2Bs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/-ty8y-nRHCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+</tr>
+<tr>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/ngDtU--h0HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+<td>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/54Dtv1WgtjU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</td>
+</tr>
+<table>
+<br/>
 
 <h3>Special Dates:</h3>
 <br/>
