@@ -42,8 +42,13 @@ permalink: /music/
 
 <br/>
 <h5>
-A female singer-songwriter currently in the SLC area. A creator of original music recorded in a 450 sq-ft studio. A performer of acoustic covers and acoustic originals.
-A performer at gigs, weddings, theaters, open mics, etc.
+Yudi is a female singer-songwriter who started singing since she was a toddler. After growing up in Virginia Beach, VA, she's lived in various places like Berkley, Cincinnati, DC, and Salt Lake City, performing and adventuring throughout. 
+<br/>
+<br/>
+Prior to going solo, this experienced musician has performed regularly in different venues and groups - including but not limited to her collegiate a Cappella group, and choirs.  
+<br/>
+<br/>
+This artist started releasing music in 2020, with all songs recorded in a 450 sq-ft studio. Being performer of acoustic covers and acoustic originals, she is open to performining at gigs, weddings, theaters, open mics, etc.
 <br/>
 <br/>
 <a href="https://yudiko.github.io/contact/#/">Contact Yudi</a> if you would like her to perform at an event! 
