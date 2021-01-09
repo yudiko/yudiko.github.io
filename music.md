@@ -7,6 +7,12 @@ permalink: /music/
 
 <h1 class="text-center"> Yudi - Music </h1>
 
+<br/>
+<h5>
+Single coming out Jan 30th! "450 Square Foot Space"
+<br/>
+<br>
+
 <table width="100%">
 <tr>
 <td width="25%">
@@ -137,6 +143,17 @@ This artist started releasing music in 2020, with all songs recorded in a 450 sq
 <h5>Lighthouse Lounge in Ogden</h5>
 </td>
 </tr>
+<tr>
+<td width="20%">
+<h5>January 30th, 2021</h5>
+</td>
+<td width="20%">
+<h5>All Day!</h5>
+</td>
+<td width="60%">
+<h5>Single Release: 450 Square Foot Space</h5>
+</td>
+</tr> 
 <table>
 
 <!-- Add one of these for a new event: -->
