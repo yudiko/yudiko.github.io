@@ -154,6 +154,17 @@ This artist started releasing music in 2020, with all songs recorded in a 450 sq
 <h5>Single Release: 450 Square Foot Space</h5>
 </td>
 </tr> 
+<tr>
+<td width="20%">
+<h5>March 14th, 2021</h5>
+</td>
+<td width="20%">
+<h5>12PM - 2PM MT</h5>
+</td>
+<td width="60%">
+<h5>Lighthouse Lounge in Ogden</h5>
+</td>
+</tr> 
 <table>
 
 <!-- Add one of these for a new event: -->
