@@ -174,6 +174,17 @@ This artist started releasing music in 2020, with all songs recorded in a 450 sq
 <h5>Lighthouse Lounge in Ogden</h5>
 </td>
 </tr> 
+<tr>
+<td width="20%">
+<h5>April 18th, 2021</h5>
+</td>
+<td width="20%">
+<h5>6:30PM - 8:30PM MT</h5>
+</td>
+<td width="60%">
+<h5>Slackwater in Ogden</h5>
+</td>
+</tr> 
 <table>
 
 <!-- Add one of these for a new event: -->
