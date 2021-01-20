@@ -10,6 +10,7 @@ permalink: /music/
 <br/>
 <h5>
 Single coming out Jan 30th! "450 Square Foot Space"
+<img src="/assets/img/450sqftspaceart.png" class="img-fluid">
 <br/>
 <br>
 
