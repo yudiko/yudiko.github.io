@@ -7,22 +7,21 @@ permalink: /music/
 
 <h1 class="text-center"> Yudi - Music </h1>
 
-<br/>
 <h5>
-<br>
 <table width="100%">
 <tr>
 <td width="25%">
 </td>
 <td width="50%">
 Single coming out Jan 30th! "450 Square Foot Space"
-<br/>
 <img src="/assets/img/450sqftspaceart.png" class="img-fluid">
 </td>
 <td width="25%">
 </td>
 </tr>
+<br>
 <br/>
+
 <table width="100%">
 <tr>
 <td width="25%">
