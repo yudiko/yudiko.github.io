@@ -9,20 +9,20 @@ permalink: /music/
 
 <br/>
 <h5>
-Single coming out Jan 30th! "450 Square Foot Space"
-<br/>
 <br>
 <table width="100%">
 <tr>
 <td width="25%">
 </td>
 <td width="50%">
+Single coming out Jan 30th! "450 Square Foot Space"
+<br/>
 <img src="/assets/img/450sqftspaceart.png" class="img-fluid">
 </td>
 <td width="25%">
 </td>
 </tr>
-
+<br/>
 <table width="100%">
 <tr>
 <td width="25%">
