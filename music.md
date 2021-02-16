@@ -99,7 +99,7 @@ This artist started releasing music in 2020, with all songs recorded in a 450 sq
 <table width="100%">
 <tr>
 <td>
-<iframe width="100%" height=auto src="https://www.youtube.com/embed/iygOABIW_Qs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height=auto src="https://www.youtube.com/embed/TBIIINWb32c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td>
 <td>
 <iframe width="100%" height=auto src="https://www.youtube.com/embed/FsQGA0AIaUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
